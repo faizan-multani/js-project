@@ -1,6 +1,6 @@
 # BMI CALCULATOR
 
-## PROJECT - BMI CALCULATOR
+## PROJECT 2- BMI CALCULATOR
 
 ```java script
 const form = document.querySelector('form');
