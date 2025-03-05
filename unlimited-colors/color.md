@@ -55,6 +55,7 @@ let intervalId
 const startChangingColor = function () {
   if (!intervalId) { // means null
     intervalId = setInterval(changeBgColor, 1000)
+    // setInertval : it keeps executes the code/function at a given interval/time
   }
 
   function changeBgColor() {
