@@ -1,0 +1,24 @@
+.main-div {
+  text-align: center;
+  font-family: system-ui;
+}
+h1{
+    letter-spacing:10px;
+}
+button {
+  font-size: 25px;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 2px 2px 5px white;
+  font-family: fantasy;
+  letter-spacing: 2px;
+  margin-right: 20px;
+  color:#fff;
+}
+#start{
+    background-color:green;
+}
+#stop{
+    background-color:red;
+}
